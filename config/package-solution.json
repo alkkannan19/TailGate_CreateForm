@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "tail-gate-creation-client-side-solution",
+    "id": "4716efe5-a22b-44f6-8c9e-9da4a90414c4",
+    "version": "1.0.0.2",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/tail-gate-creation.sppkg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "tail-gate-creation",
+    "libraryId": "4716efe5-a22b-44f6-8c9e-9da4a90414c4",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
